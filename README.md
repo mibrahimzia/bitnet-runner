@@ -4,6 +4,7 @@
 
 1. **Install the App**  
    Download and install BitNet Runner on Windows. It will set up a `.bitnet-runner` folder under your user directory.
+   from releases: https://github.com/mibrahimzia/bitnet-runner/releases
 
 2. **Add a Model**  
    Place any BitNet model in `.gguf` format inside the `models` folder located at:  
