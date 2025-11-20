@@ -1,0 +1,30 @@
+# Binaries
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDEs
+.vscode/
+.idea/
+
+# Go
+vendor/
+go.work
+
+# Node/Frontend
+node_modules/
+/ui/frontend/dist/
+/ui/frontend/coverage/
+
+# Wails
+/ui/build/
+wails.json
+
+# User Data (Development)
+.bitnet_runner/
+
+# OS
+.DS_Store
+Thumbs.db
