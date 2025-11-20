@@ -1,6 +1,6 @@
 # BitNet Runner
 
-![Release](https://img.shields.io/github/v/release/mibrahimzia/bitnet-runner)
+![Pre‑Release](https://img.shields.io/github/v/release/mibrahimzia/bitnet-runner?include_prereleases)
 ![License](https://img.shields.io/github/license/mibrahimzia/bitnet-runner)
 
 A lightweight desktop app for offline BitNet model inference, free and open source.
